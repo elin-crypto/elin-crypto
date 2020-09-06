@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello
+
+My name is Elin Kurtsdotter and I'm currently studying Web development at Miun University. 
+
+*I'm originally a photographer and graphic designer, have a look at my portfolio www.studioxuntas.com*
+
+If you want to say hello send me an email to contact@elinkurtsdotter.com
+
+**//Elin**
 
 <!--
 **elin-crypto/elin-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
