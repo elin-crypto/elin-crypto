@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(79, 79, 79);
+    font-family: Helvetica, sans-serif;
+    padding: 5em;
+    text-align: center;
+    color: rgb(138, 94, 94);
+}
+@-webkit-keyframes pulse {
+    0% { box-shadow:0 0 8px #f7bf16, inset 0 0 8px #f7bf16; }
+    50% { box-shadow:0 0 30px #f7bf16, inset 0 0 30px #f7bf16; }
+    100% { box-shadow:0 0 8px #f7bf16, inset 0 0 8px #f7bf16; }
+  }
+  
+  .inner {
+    background-color:transparent;
+    display: block;
+    margin: 6em auto;
+    width:10em;
+    height:10em;
+    border-radius:5em;
+    box-shadow: 0 0 8px #f7bf16, inset 0 0 8px #f7bf16;
+    -webkit-animation: pulse 2s linear 1s infinite;
+  }
